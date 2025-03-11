@@ -20,7 +20,7 @@
 
 後半段則以基礎案例實作為主，包括開發板介紹、常見聲音辨識、運動感測及簡易型視覺分類、物件偵測、姿態估測等應用。會依不同案例帶領大家如何使用各種開源工具來完成資料集建置、模型訓練、部署及推論測試，其中包括 Google Colab, TensorFlow Lite (TFLite), TensorFlow Lite for Microcontroller (TFLM/TFLu), Edge Impulse Studio, Roboflow, Seeed Studio SenseCraft AI等。
 
-本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。
+> 本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。
 
 <img src="https://hackmd.io/_uploads/BypIweNsyx.jpg" alt="Seeed Xiao nRF52840 Sense" height="120">  
 
@@ -34,7 +34,7 @@
 
 **註：完整 kit 含 Seeed Grove Vision AI Module V2 (Himax WiseEye2 HX6538, arm Cortex-M55 + Ethos-U55), Raspberry Pi OV5647 Camera Module, Xiao ESP32C3。**  
 
-**YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 21：00，一小時課程（可視情況彈性延長半小時問答），共12週，視情況再加開進階課程。
+> **YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 21：00，一小時課程（可視情況彈性延長半小時問答），共12週，視情況再加開進階課程。
 所有直播內容結束後會保留在 YOUTUBE，如遇特殊狀況需調整上課時間或改成預錄播出會另行公告處理方式。**
 
 ## 3.講師簡介
