@@ -76,73 +76,73 @@
 所有課程簡報、範例、影片會於課後提供相關連結，並發佈到 FB Group, Blogger, Medium, Hackmd, Github 等媒體，方便大家透過自己習慣的管道學習。
 
 * **<font color="#0000ff">2025/03/12</font> Ch_0 課程簡介**  
-* **<font color="#0000ff">2025/03/12</font> Ch_1 微型人工智慧(TinyML)簡介**  
+* **<font color="#0000ff">2025/03/12</font> [Ch_1 微型人工智慧(TinyML)簡介](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch01_TinyML_Introduction)**  
     1.1. 智慧物聯網與微型人工智慧  
     1.2. 常見應用  
     1.3. 常見開發板  
     1.4. 常見開發工具  
-* **<font color="#0000ff">2025/03/19</font> Ch_2 單晶片基礎**  
+* **<font color="#0000ff">2025/03/19</font> [Ch_2 單晶片基礎](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch02_MCU_Basics)**  
     2.1. 硬體架構與分類  
     2.2. arm Cortex-M演進  
     2.3. 基本週邊控制  
     2.4. 即時作業系統  
-* **<font color="#0000ff">2025/03/19</font> Ch_3 微型人工智慧基礎**  
+* **<font color="#0000ff">2025/03/19</font> [Ch_3 微型人工智慧基礎](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch03_TinyML_Fundamentals)**  
     3.1. 數字系統  
     3.2. 機器學習算法(ML)  
     3.3. 卷積神經網路(CNN)  
     3.4. 循環神經網路(RNN)  
-* **<font color="#0000ff">2025/04/02</font> Ch_4 arm 單晶片加速運算**  
+* **<font color="#0000ff">2025/04/02</font> [Ch_4 arm 單晶片加速運算](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch04_Arm_Accelerated)**  
     4.1. Thumb 指令集  
     4.2. DSP (SIMD) 指令集  
     4.3. Helium (MVE) 指令集  
-    4.4. Ethos-U MicroNPU 
-* **<font color="#0000ff">2025/04/09</font> Ch_5 通用微控制器軟體介面標準(CMSIS)**  
+    4.4. Ethos-U MicroNPU  
+* **<font color="#0000ff">2025/04/09</font> [Ch_5 通用微控制器軟體介面標準(CMSIS)](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch05_Arm_CMSIS)**  
     5.1. CMSIS 基本介紹  
     5.2. CMSIS-Core  
     5.3. CMSIS-DSP  
     5.4. CMSIS-NN  
-* **<font color="#0000ff">2025/04/16</font> Ch_6 TinyML開發流程**  
+* **<font color="#0000ff">2025/04/16</font> [Ch_6 TinyML開發流程](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch06_TinyML_Workflow)**  
     6.1. 資料集建立  
     6.2. 模型選用與訓練  
     6.3. 模型轉換及優化  
     6.4. 模型部署與整合  
-* **<font color="#0000ff">2025/04/23</font> Ch_7 實驗開發板介紹**  
+* **<font color="#0000ff">2025/04/23</font> [Ch_7 實驗開發板介紹](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch07_Development_Boards)**  
     7.1. Arduino Nano 33 BLE Sense  
     7.2. Seeed Xiao nRF52840 Sense  
     7.3. Seeed Grove Vision AI Module V2 Kit  
     7.4. Seeed SenseCap Watcher  
-* **<font color="#0000ff">2025/04/30</font> Ch_8 聲音辨識應用─環境音辨識  
+* **<font color="#0000ff">2025/04/30</font> [Ch_8 聲音辨識應用─環境音辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch08_Audio_Recognition)  
     (Xiao nRF52840 Sense)**  
     8.1. TensorFlow Lite 開發環境建置  
     8.2. 聲音資料集建置  
     8.3. 模型選用與訓練  
     8.4. 模型部署與測試  
-* **<font color="#0000ff">2025/05/07</font> Ch_9 運動感測器應用─手勢辨識  
+* **<font color="#0000ff">2025/05/07</font> [Ch_9 運動感測器應用─手勢辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch09_Motion_Recognition)  
     (Xiao nRF52840 Sense)**  
     9.1. Edge Impulse Studio 開發環境建置  
     9.2. 運資料集建置  
     9.3. 模型選用與訓練  
     9.4. 模型部署與測試  
-* **<font color="#0000ff">2025/05/14</font> Ch_10 影像應用─影像分類  
+* **<font color="#0000ff">2025/05/14</font> [Ch_10 影像應用─影像分類](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch10_Image_Classification)  
     (Xiao Grove Vision AI V2 Kit)**  
     10.1. Seeed SenseCraft AI 開發環建置  
     10.2. 影像資料集建置  
     10.3. 模型選用與訓練  
     10.4. 模型部署與測試  
-* **<font color="#0000ff">2025/05/21</font> Ch_11 影像應用─物件偵測  
+* **<font color="#0000ff">2025/05/21</font> [Ch_11 影像應用─物件偵測](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch11_Object_Detection)  
     (Xiao Grove Vision AI V2 Kit)**  
     11.1. Edge Impulse 開發環建置  
     11.2. 影像資料集建置  
     11.3. 模型選用與訓練  
     11.4. 模型部署與測試  
-* **<font color="#0000ff">2025/05/28</font> Ch_12 影像應用─姿態偵測  
+* **<font color="#0000ff">2025/05/28</font> [Ch_12 影像應用─姿態估測](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch12_Pose_Estimation)  
     (Xiao Grove Vision AI V2 Kit)**  
     12.1. Himax SDK 開發環境建置  
     12.2. Yolov8n 姿態資料集與模型  
     12.3. 程式編譯  
-    12.4. 模型部署與測試    
-* **<font color="#0000ff">2025/06/04</font> Ch_13 雲端與邊緣整合應用 <font color="#ff0000">（暫訂）</font>**
-    **<font color="#0000ff">(Seeed SenseCap Watcher)</font>**   
+    12.4. 模型部署與測試  
+* **<font color="#0000ff">2025/06/04</font> Ch_13 雲端與邊緣整合應用 <font color="#ff0000">（暫訂）</font>**  
+    **<font color="#0000ff">(Seeed SenseCap Watcher)</font>**  
 
 ## 參考文獻
 
