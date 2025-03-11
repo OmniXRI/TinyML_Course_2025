@@ -1,8 +1,21 @@
-# OmniXRI TinyML 小學堂 (2025)  第  講 
+# OmniXRI TinyML 小學堂 (2025)  第 1 講 微型人工智慧簡介
+
+<img src="https://raw.githubusercontent.com/OmniXRI/TinyML_Course_2025/refs/heads/main/images/2025_TinyML%E5%B0%8F%E5%AD%B8%E5%A0%82%E8%AA%B2%E7%A8%8B%E7%9B%B4%E6%92%AD%E5%9C%96%E7%A4%BA_Ch1.JPG" alt="" width="640">  
 
 <span style="color:#FF0000;">**本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。**</span>
 
+**課程直播連結： https://youtu.be/3WGp3QFOLMw**  
+**課程簡報連結： （待更新）**  
+
 ## 課程內容
+
+1.1. 智慧物聯網與微型人工智慧  
+
+1.2. 常見應用  
+
+1.3. 常見開發板  
+
+1.4. 常見開發工具  
 
 ## 參考文獻
 
