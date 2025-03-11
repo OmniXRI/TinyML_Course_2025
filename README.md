@@ -20,7 +20,7 @@
 
 後半段則以基礎案例實作為主，包括開發板介紹、常見聲音辨識、運動感測及簡易型視覺分類、物件偵測、姿態估測等應用。會依不同案例帶領大家如何使用各種開源工具來完成資料集建置、模型訓練、部署及推論測試，其中包括 Google Colab, TensorFlow Lite (TFLite), TensorFlow Lite for Microcontroller (TFLM/TFLu), Edge Impulse Studio, Roboflow, Seeed Studio SenseCraft AI等。
 
-> 本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。
+> **本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。**
 
 <img src="https://hackmd.io/_uploads/BypIweNsyx.jpg" alt="Seeed Xiao nRF52840 Sense" height="120">  
 
@@ -177,4 +177,4 @@ OmniXRI Github 課程簡報及相關範例：
 https://github.com/OmniXRI/TinyML_Course_2025
 
 ---
-> 註：本課程非學校正式課程，現僅有老師一人，沒有教學助理可幫忙，如操作上有相關問題，請於[Youtube](https://www.youtube.com/@omnixri1784/featured), [FB Group](https://www.facebook.com/groups/edgeaitw), [Blogger](https://omnixri.blogspot.com/), [Medium](https://omnixri.medium.com/), [Hackmd](https://hackmd.io/@OmniXRI-Jack), [Github](https://github.com/OmniXRI) 各討論區中留言，老師會儘量協助，如有服務不週之處尚請見諒。
+> **註：本課程非學校正式課程，現僅有老師一人，沒有教學助理可幫忙，如操作上有相關問題，請於[Youtube](https://www.youtube.com/@omnixri1784/featured), [FB Group](https://www.facebook.com/groups/edgeaitw), [Blogger](https://omnixri.blogspot.com/), [Medium](https://omnixri.medium.com/), [Hackmd](https://hackmd.io/@OmniXRI-Jack), [Github](https://github.com/OmniXRI) 各討論區中留言，老師會儘量協助，如有服務不週之處尚請見諒。**
