@@ -22,28 +22,28 @@
 
 本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。
 
-![Seeed Xiao nRF52840 Sense](https://hackmd.io/_uploads/BypIweNsyx.jpg =120x)
-* [Seeed Xiao nRF52840 Sense](https://wiki.seeedstudio.com/XIAO_BLE/)
-**註：Xiao nRF52840 Sense (Nordic nRF52840, arm Cortex-M4) 才有含數位麥克風及六軸運動感測器，Xiao nRF52840 不含任何感測器。**
+![Seeed Xiao nRF52840 Sense](https://hackmd.io/_uploads/BypIweNsyx.jpg)  
+* [Seeed Xiao nRF52840 Sense](https://wiki.seeedstudio.com/XIAO_BLE/)  
+**註：Xiao nRF52840 Sense (Nordic nRF52840, arm Cortex-M4) 才有含數位麥克風及六軸運動感測器，Xiao nRF52840 不含任何感測器。**  
 
-![Seeed Grove Vision AI Module V2](https://hackmd.io/_uploads/H1XwOxEskx.jpg =240x)
-* [Seeed Grove Vision AI Module V2 kit](https://wiki.seeedstudio.com/grove_vision_ai_v2/)
-**註：完整 kit 含 Seeed Grove Vision AI Module V2 (Himax WiseEye2 HX6538, arm Cortex-M55 + Ethos-U55), Raspberry Pi OV5647 Camera Module, Xiao ESP32C3。**
+![Seeed Grove Vision AI Module V2](https://hackmd.io/_uploads/H1XwOxEskx.jpg)  
+* [Seeed Grove Vision AI Module V2 kit](https://wiki.seeedstudio.com/grove_vision_ai_v2/)  
+**註：完整 kit 含 Seeed Grove Vision AI Module V2 (Himax WiseEye2 HX6538, arm Cortex-M55 + Ethos-U55), Raspberry Pi OV5647 Camera Module, Xiao ESP32C3。**  
 
-:::info
+<div style="background-color:#e0f7fa; border:1px solid #81d4fa; padding:10px; border-radius:5px;">
 YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 21：00，一小時課程（可視情況彈性延長半小時問答），共12週，視情況再加開進階課程。
 所有直播內容結束後會保留在 YOUTUBE，如遇特殊狀況需調整上課時間或改成預錄播出會另行公告處理方式。
-:::
+</div>
 
 ## 3.講師簡介
 
-![JackHsu](https://hackmd.io/_uploads/Hyll8QXi1l.png)
+![JackHsu](https://hackmd.io/_uploads/Hyll8QXi1l.png)  
 **許哲豪 (Jack Hsu) 博士**
 
-**連絡方式：**
-電子郵件： omnixri@gmail.com
+**連絡方式：**  
+電子郵件： omnixri@gmail.com  
 
-**個人簡介：**
+**個人簡介：**  
 * [歐尼克斯實境互動工作室](https://omnixri.blogspot.com/)(OmniXRI Studio) 創辦人 (2017/11 ~ now)
 * Facebook 【[Edge AI Taiwan邊緣智能交流區](https://www.facebook.com/groups/edgeaitw)】 社團創辦人 (2020/5 ~ now)
 * Arm 開發者大使（台灣地區首位, 2024/10 ~ now）
@@ -51,16 +51,16 @@ YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 2
 * [MakerPRO](https://makerpro.cc/jack-hsu-column/), [vMaker](https://vmaker.tw/archives/category/%e5%b0%88%e6%ac%84/jack-omnixri)等單位Edge AI專欄作家
 * 多家公司兼任技術/新創顧問
 
-**專長：**
+**專長：**  
 機電整合、半導體封裝、電腦視覺、立體顯示、實境互動、人工智慧、智財技轉、新創輔導。
 
-**經歷：**
+**經歷：**  
 * 臺灣科技大學 資訊工程系 產碩專班 「人工智慧與邊緣運算實務」 兼任助理教授 (2021/2 ~ 2023/6)
 * 開南大學 健康產業管理系 健康產業應用課程 「健康資料處理與分析」、「智慧醫療」 協同計畫主持人暨部份課程教學講師 (2022/9 ~ 2023/6)
 * 開源人年會 Coscup 2023 【Open Edge AI & TinyML】 議程召集人 (2023/7)
 * 2019 【Intel OpenVINO x Edge AI 創意應用競賽】 課程講師/活動顧問/競賽評審
 
-**榮譽：**
+**榮譽：**  
 * 2024 [總統盃黑客松](https://www.president.gov.tw/News/28977)五強─「寧靜追蹤師」（技術支援）
 * iThome 2021(13屆) 鐵人賽【Arm Platforms組】 冠軍
 「[爭什麼，把AI和MCU摻在一起做tinyML就對了](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/4855)」 （筆名：史蒂芬周）
