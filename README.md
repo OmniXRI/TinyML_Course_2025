@@ -57,14 +57,14 @@
 機電整合、半導體封裝、電腦視覺、立體顯示、實境互動、人工智慧、智財技轉、新創輔導。
 
 **經歷：**  
-* 臺灣科技大學 資訊工程系 產碩專班 「人工智慧與邊緣運算實務」 兼任助理教授 (2021/2 ~ 2023/6)
-* 開南大學 健康產業管理系 健康產業應用課程 「健康資料處理與分析」、「智慧醫療」 協同計畫主持人暨部份課程教學講師 (2022/9 ~ 2023/6)
-* 開源人年會 Coscup 2023 【Open Edge AI & TinyML】 議程召集人 (2023/7)
+* 臺灣科技大學 資訊工程系 產碩專班 [「人工智慧與邊緣運算實務」](https://omnixri.blogspot.com/p/ntust-edge-ai.html) 兼任助理教授 (2021/2 ~ 2023/6)
+* 開南大學 健康產業管理系 健康產業應用課程 [「健康資料處理與分析」、「智慧醫療」](https://omnixri.blogspot.com/p/knu.html) 協同計畫主持人暨部份課程教學講師 (2022/9 ~ 2023/6)
+* 開源人年會 [Coscup 2023 【Open Edge AI & TinyML】](https://volunteer.coscup.org/schedule/2023/talks/11f05/Open%20Edge%20AI%20&%20TinyML) 議程召集人 (2023/7)
 * 2019 【Intel OpenVINO x Edge AI 創意應用競賽】 課程講師/活動顧問/競賽評審
 
 **榮譽：**  
-* 2024 [總統盃黑客松](https://www.president.gov.tw/News/28977)五強─「寧靜追蹤師」（技術支援）
-* iThome 2021(13屆) 鐵人賽【Arm Platforms組】 冠軍
+* 2024 [總統盃黑客松](https://www.president.gov.tw/News/28977)五強─「寧靜追蹤師」（技術支援）  
+* iThome 2021(13屆) 鐵人賽【Arm Platforms組】 冠軍  
 「[爭什麼，把AI和MCU摻在一起做tinyML就對了](https://ithelp.ithome.com.tw/2020-12th-ironman/articles/4855)」 （筆名：史蒂芬周）
 
 ## 4.課程大綱
