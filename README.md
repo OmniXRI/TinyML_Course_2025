@@ -22,18 +22,18 @@
 
 本課程主要使用開發板如下所示。老師並非產品代理商或商品代言人，僅方便教學使用，有需要者請自行上網到露天、蝦皮或其它代理商採購。
 
-![Seeed Xiao nRF52840 Sense](https://hackmd.io/_uploads/BypIweNsyx.jpg)  
+<img src="https://hackmd.io/_uploads/BypIweNsyx.jpg" alt="Seeed Xiao nRF52840 Sense" height="120">  
 * [Seeed Xiao nRF52840 Sense](https://wiki.seeedstudio.com/XIAO_BLE/)  
+
 **註：Xiao nRF52840 Sense (Nordic nRF52840, arm Cortex-M4) 才有含數位麥克風及六軸運動感測器，Xiao nRF52840 不含任何感測器。**  
 
-![Seeed Grove Vision AI Module V2](https://hackmd.io/_uploads/H1XwOxEskx.jpg)  
+<img src="https://hackmd.io/_uploads/H1XwOxEskx.jpg" alt="Seeed Grove Vision AI Module V2" height="120">  
 * [Seeed Grove Vision AI Module V2 kit](https://wiki.seeedstudio.com/grove_vision_ai_v2/)  
+
 **註：完整 kit 含 Seeed Grove Vision AI Module V2 (Himax WiseEye2 HX6538, arm Cortex-M55 + Ethos-U55), Raspberry Pi OV5647 Camera Module, Xiao ESP32C3。**  
 
-<div style="background-color:#e0f7fa; border:1px solid #81d4fa; padding:10px; border-radius:5px;">
-YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 21：00，一小時課程（可視情況彈性延長半小時問答），共12週，視情況再加開進階課程。
-所有直播內容結束後會保留在 YOUTUBE，如遇特殊狀況需調整上課時間或改成預錄播出會另行公告處理方式。
-</div>
+**YOUTUBE 課程直播時間： 2025/3/12 ~ 2024/5/28，每週三晚上20：00 ~ 21：00，一小時課程（可視情況彈性延長半小時問答），共12週，視情況再加開進階課程。
+所有直播內容結束後會保留在 YOUTUBE，如遇特殊狀況需調整上課時間或改成預錄播出會另行公告處理方式。**
 
 ## 3.講師簡介
 
