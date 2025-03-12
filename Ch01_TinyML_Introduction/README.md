@@ -5,7 +5,7 @@
 <span style="color:#FF0000;">**本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。**</span>
 
 **課程直播連結： https://youtu.be/3WGp3QFOLMw**  
-**課程簡報連結： （待更新）**  
+**課程簡報連結： https://github.com/OmniXRI/TinyML_Course_2025/blob/main/Ch01_TinyML_Introduction/20250312_TInyML_Course_Ch01_OmniXRI_Jack.pdf**  
 
 ## 課程內容
 
