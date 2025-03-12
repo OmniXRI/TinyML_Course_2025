@@ -10,12 +10,58 @@
 ## 課程內容
 
 1.1. 智慧物聯網與微型人工智慧  
+* 傳統物聯網 (IoT) 工作流程  
+* 工業物聯網 (IIoT) 架構  
+* 智慧物聯網 (AIoT) 架構  
+* 智慧健康（穿戴式）物聯網  
+* 邊緣智慧 vs. 生成智慧  
+* Edge AI 是什麼？  
+* 邊緣智慧 (Edge AI) 誰說了算？  
+* 何謂微型人工智慧 (TinyML)  
+* TinyML 相關論文   
+* MCU等級TinyML常見應用及限制  
+* 智慧物聯網 vs. 微型人工智慧  
 
-1.2. 常見應用  
+1.2. TinyML 常見應用  
+* [TinyML案例分享（技術分類）](https://github.com/user-attachments/assets/9ae2f439-8c1d-40ed-999e-5e8aafdb4757)  
+* [TinyML案例分享 ─ Hackster.io](https://www.hackster.io/search?q=tinyml&i=projects)  
+* [TinyML案例分享 ─ Edge Impulse Blog](https://www.edgeimpulse.com/blog/)  
+* [TinyML案例分享 ─ Arduino TinyML Blog](https://search.arduino.cc/search?tab=&q=tinyML)  
+* [TinyML案例分享 ─ Edge AI基金會(Youtube)](https://www.youtube.com/@edgeaifoundation/videos)  
 
-1.3. 常見開發板  
+1.3. TinyML 常見開發板  
+* MCU vs. MPU / SoC  
+* MCU等級主要核心晶片分類  
+* 常見tinyML開發板(智能感測)  
+* 常見tinyML開發板(自帶攝影機)  
+* 常見具視覺TinyML開發板  
+* TinyML MCU 等級相關開發板  
+* Arm Cortex-M55/M85 + Ethos-U55/U65  
+* 單晶片推論速度與耗能比較  
+* [各式TinyML視覺開發板效能比較](https://www.hackster.io/mjrobot/computer-vision-at-the-edge-with-grove-vision-ai-module-v2-0003c7)  
 
-1.4. 常見開發工具  
+1.4. TinyML 常見開發工具  
+* TinyML 應用開發流程  
+* 資料集建置工具
+    * [Edge Impulse Data acquisition - Data Source](https://docs.edgeimpulse.com/docs/edge-impulse-studio/data-acquisition/data-sources)  
+    * [SensiML Data Capture Lab](https://sensiml.com/documentation/data-studio/data-collection-overview.html)  
+    * [CVAT](https://www.cvat.ai/)  
+    * [Roboflow](https://roboflow.com/)  
+    * [SenseCraft AI](https://sensecraft.seeed.cc/ai/)  
+* 開發框架與工具 (MCU)  
+* TinyML 開發平台與技術供應商  
+* 開發框架 (CPU / GPU / NPU / MCU)
+    * [TensorFlow](https://www.tensorflow.org/?hl=zh-tw)  
+    * [TensorFlow Lite (TFL)](https://www.tensorflow.org/lite/guide?hl=zh-tw)  
+    * [TensorFlow Lite for Microcontrollers (TFLM, TFLu)](https://www.tensorflow.org/lite/microcontrollers?hl=zh-tw)  
+    * [PyTorch](https://pytorch.org/)  
+    * [PyTorch Mobile](https://pytorch.org/mobile/home/)  
+    * [ExecuTorch](https://pytorch.org/executorch-overview)  
+    * [uTensor](https://github.com/uTensor/uTensor)  
+    * [microTVM](https://tvm.hyper.ai/docs/topic/microtvm/)
+    * [AIfES](https://github.com/Fraunhofer-IMS/AIfES_for_Arduino)  
+* MCU硬體廠商收購TinyML軟體開發商  
+* [ML Commons (MLPerf) Benchmarks:Tiny](https://mlcommons.org/benchmarks/inference-tiny/)  
 
 ## 參考文獻
 
