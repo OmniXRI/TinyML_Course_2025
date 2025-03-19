@@ -1,4 +1,4 @@
-# OmniXRI TinyML 小學堂 (2025)  第2講 單晶片基礎   
+# OmniXRI TinyML 小學堂 (2025)  第 2 講 單晶片基礎   
 
 ![](https://raw.githubusercontent.com/OmniXRI/TinyML_Course_2025/refs/heads/main/images/2025_TinyML%E5%B0%8F%E5%AD%B8%E5%A0%82%E8%AA%B2%E7%A8%8B%E7%9B%B4%E6%92%AD%E5%9C%96%E7%A4%BA_Ch2.JPG)
 
