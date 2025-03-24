@@ -86,7 +86,7 @@
     2.2. arm Cortex-M演進  
     2.3. 基本週邊控制  
     2.4. 即時作業系統  
-* **<font color="#0000ff">2025/03/19</font> [Ch_3 微型人工智慧基礎](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch03_TinyML_Fundamentals)**  
+* **<font color="#0000ff">2025/03/26</font> [Ch_3 微型人工智慧基礎](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch03_TinyML_Fundamentals)**  
     3.1. 數字系統  
     3.2. 機器學習算法(ML)  
     3.3. 卷積神經網路(CNN)  
