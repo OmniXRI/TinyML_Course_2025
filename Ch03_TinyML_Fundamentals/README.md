@@ -1,8 +1,48 @@
-# OmniXRI TinyML 小學堂 (2025)  第  講 
+# OmniXRI TinyML 小學堂 (2025)  【第 3 講】微型人工智慧基礎
+
+<img src="https://raw.githubusercontent.com/OmniXRI/TinyML_Course_2025/refs/heads/main/images/2025_TinyML%E5%B0%8F%E5%AD%B8%E5%A0%82%E8%AA%B2%E7%A8%8B%E7%9B%B4%E6%92%AD%E5%9C%96%E7%A4%BA_Ch3.JPG" alt="" width="640">  
 
 <span style="color:#FF0000;">**本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。**</span>
 
+**課程直播日期： 2025/03/26**
+**課程直播連結： https://youtu.be/FgmhEuYAXBU**
+**課程簡報名稱： 20250326_TinyML_Course_Ch03_OmniXRI_Jack.pdf**
+
 ## 課程內容
+
+3.1. 數字系統  
+* 類比與數位系統  
+* 數位系統如何表示數字  
+* 整數 (INT)  
+* 定點數 (Q) 與 浮點數 (FP)  
+* AI 常用浮點表示法  
+* 低位元浮點數 (FP8 / FP4)  
+
+3.2. 機器學習算法 (ML)  
+* 機器學習地圖  
+* 機器學習 ─ 線性（多項式）迴歸  
+* 機器學習 ─ 分類  
+* 機器學習 ─ 降維  
+* 機器學習 ─  聚類  
+
+3.3. 卷積神經網路算法 (CNN)  
+* 神經網路（NN） ─ 神經元  
+* 神經網路（NN） ─ 深度神經網路  
+* 卷積神經網路 ─ CNN 演化  
+* 卷積神經網路 ─ LeNet-5  
+* 卷積神經網路 ─ 卷積  
+* 卷積神經網路 ─ 池化、平坦化  
+* 卷積神經網路 ─ 全連結  
+* 卷積神經網路 ─ 激活函數  
+* 卷積神經網路 ─ 輸出函數  
+* 卷積神經網路 ─ 權重與計算量  
+
+3.4. 循環神經網路算法 (RNN)  
+* 時間序列與分解  
+* 傳統時序預測  
+* 循環神經網路 ─ RNN  
+* 循環神經網路 ─ 長短期記憶（LSTM） 
+* 循環神經網路 ─ 門控循環單元（GRU）  
 
 ## 參考文獻
 
@@ -17,15 +57,14 @@ https://hackmd.io/1PK1URhIQ7GutcWgpgsWbg#TinyMLMCU-AI%E7%B3%BB%E5%88%97
 
 ## 延伸閱讀
 
-* [Edge Impulse Studio Document](https://docs.edgeimpulse.com/docs)
-* [Seeed Studio SenseCraft AI](https://sensecraft.seeed.cc/ai/)
-* [Google TensorFlow Lite](https://www.tensorflow.org/lite/guide?hl=zh-tw)
-* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers?hl=zh-tw)
-* [Roboflow](https://roboflow.com/)
-* [arm Cortex-M55 Processor](https://developer.arm.com/processors/cortex-m55)
-* [arm Ethos-U55 MicroNPU](https://developer.arm.com/Processors/Ethos-U55)
-* [arm Common Microcontroller Software Interface Standard (CMSIS) V6 Document](https://github.com/ARM-software/CMSIS_6)
-* [Github - HimaxWiseEyePlus / Seeed_Grove_Vision_AI_Module_V2](https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2)
+[A] 許哲豪，Nvidia GTC 2024 提出的 FP8/FP4 如何加速AI訓練及推論  
+https://omnixri.blogspot.com/2024/03/nvidia-gtc-2024-fp8fp4-ai.html  
+
+[B] 許哲豪，【vMaker EDGE AI專欄 #02】 要玩AI前，先來認識數字系統  
+https://omnixri.blogspot.com/2023/02/vmaker-edge-ai-02-ai.html  
+
+[C] Thommas Kevin, TinyML & Edge AI  
+https://medium.com/@thommaskevin  
 
 ## 教學資源
 
