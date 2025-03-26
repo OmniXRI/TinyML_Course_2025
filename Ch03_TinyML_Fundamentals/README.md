@@ -4,9 +4,9 @@
 
 <span style="color:#FF0000;">**本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。**</span>
 
-**課程直播日期： 2025/03/26**
-**課程直播連結： https://youtu.be/FgmhEuYAXBU**
-**課程簡報名稱： 20250326_TinyML_Course_Ch03_OmniXRI_Jack.pdf**
+**課程直播日期： 2025/03/26**  
+**課程直播連結： https://youtu.be/FgmhEuYAXBU**  
+**課程簡報名稱： 20250326_TinyML_Course_Ch03_OmniXRI_Jack.pdf**  
 
 ## 課程內容
 
