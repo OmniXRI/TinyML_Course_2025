@@ -92,7 +92,7 @@
     3.3. 卷積神經網路(CNN)  
     3.4. 循環神經網路(RNN)  
 * **<font color="#0000ff">2025/04/02</font> [Ch_4 arm 單晶片加速運算](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch04_Arm_Accelerated)**  
-    4.1. Thumb 指令集  
+    4.1. 常見硬體加速手法  
     4.2. DSP (SIMD) 指令集  
     4.3. Helium (MVE) 指令集  
     4.4. Ethos-U MicroNPU  
