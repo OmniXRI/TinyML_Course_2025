@@ -98,7 +98,7 @@
     4.4. Ethos-U MicroNPU  
 * **<font color="#0000ff">2025/04/09</font> [Ch_5 通用微控制器軟體介面標準(CMSIS)](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch05_Arm_CMSIS)**  
     5.1. CMSIS 基本介紹  
-    5.2. CMSIS-Core  
+    5.2. CMSIS-Core & Driver  
     5.3. CMSIS-DSP  
     5.4. CMSIS-NN  
 * **<font color="#0000ff">2025/04/16</font> [Ch_6 TinyML開發流程](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch06_TinyML_Workflow)**  
