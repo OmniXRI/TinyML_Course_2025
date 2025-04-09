@@ -1,8 +1,55 @@
-# OmniXRI TinyML 小學堂 (2025)  第  講 
+# OmniXRI TinyML 小學堂 (2025) 【第 5 講】通用微控制器軟體介面標準(CMSIS)
+
+<img src="https://raw.githubusercontent.com/OmniXRI/TinyML_Course_2025/refs/heads/main/images/2025_TinyML%E5%B0%8F%E5%AD%B8%E5%A0%82%E8%AA%B2%E7%A8%8B%E7%9B%B4%E6%92%AD%E5%9C%96%E7%A4%BA_Ch5.JPG" alt="" width="640">  
 
 <span style="color:#FF0000;">**本課程完全免費，請勿移作商業用途！更多課程內容請參考文末教學資源連結。歡迎追蹤、留言、訂閱、點讚、轉發，讓更多需要的朋友也能一起學習。**</span>
 
+**課程直播日期： 2025/04/09**   
+**課程直播連結： https://youtu.be/JFR5o4dFxrk**  
+**課程簡報名稱： 20250409_TInyML_Course_Ch05_OmniXRI_Jack.pdf**  
+
 ## 課程內容
+
+5.1. CMSIS 基本介紹  
+* arm Cortex-M 架構差異  
+* 何謂 arm CMSIS  
+* CMSIS-5  
+* CMSIS-5 架構圖  
+* CMSIS-6  
+* CMSIS-6 主要元件功能  
+* CMSIS-6 架構圖  
+* CMSIS 5 / 6 Github 比較  
+* CMSIS 5 / 6 主要差異  
+
+5.2. CMSIS-Core & Driver  
+* CMSIS-6 Core  
+* CMSIS-6 Core 相關檔案  
+* CMSIS-6 Core 說明文件  
+* CMSIS-6 Core 範例程式  
+* CMSIS-6 Driver  
+* CMSIS-6 Driver 架構圖  
+* CMSIS-6 Driver 工作流程  
+* CMSIS-6 Driver 相關檔案  
+* CMSIS-6 Driver ─ GPIO 為例  
+
+5.3. CMSIS-DSP  
+* CMSIS-6 DSP  
+* CMSIS-6 DSP – 通用格式  
+* CMSIS-6 DSP – 數學函數  
+* CMSIS-6 DSP – 濾波器函數  
+* CMSIS-6 DSP – 矩陣函式  
+* CMSIS-6 DSP – 變換函式  
+* CMSIS 5 / 6 DSP 比較  
+
+5.4. CMSIS-NN  
+* CMSIS-6 NN  
+* CMSIS-6 NN 架構圖  
+* CMSIS-6 NN – 卷積函式   
+* CMSIS-6 NN –  激勵函式  
+* CMSIS-6 NN –  池化函式  
+* CMSIS-6 NN –  全連結層函式  
+* CMSIS-6 NN –  Softmax函式  
+* CMSIS 5 / 6 NN 比較  
 
 ## 參考文獻
 
@@ -15,17 +62,29 @@ https://omnixri.blogspot.com/2024/06/omnixris-edge-ai-tinyml-youtube.html
 [3] 許哲豪，OmniXRI系列發文─TinyML(MCU AI)系列  
 https://hackmd.io/1PK1URhIQ7GutcWgpgsWbg#TinyMLMCU-AI%E7%B3%BB%E5%88%97  
 
-## 延伸閱讀
+[4] 許哲豪，歐尼克斯實境互動工作室系列發文─TinyML(MCU AI)系列  
+https://hackmd.io/1PK1URhIQ7GutcWgpgsWbg#TinyMLMCU-AI%E7%B3%BB%E5%88%97  
 
-* [Edge Impulse Studio Document](https://docs.edgeimpulse.com/docs)
-* [Seeed Studio SenseCraft AI](https://sensecraft.seeed.cc/ai/)
-* [Google TensorFlow Lite](https://www.tensorflow.org/lite/guide?hl=zh-tw)
-* [TensorFlow Lite for Microcontrollers](https://www.tensorflow.org/lite/microcontrollers?hl=zh-tw)
-* [Roboflow](https://roboflow.com/)
-* [arm Cortex-M55 Processor](https://developer.arm.com/processors/cortex-m55)
-* [arm Ethos-U55 MicroNPU](https://developer.arm.com/Processors/Ethos-U55)
-* [arm Common Microcontroller Software Interface Standard (CMSIS) V6 Document](https://github.com/ARM-software/CMSIS_6)
-* [Github - HimaxWiseEyePlus / Seeed_Grove_Vision_AI_Module_V2](https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2)
+[5] 許哲豪，TinyML 核心函式庫 Arm CMSIS 6 DSP & NN 更新比較
+https://omnixri.blogspot.com/2024/02/tinyml-arm-cmsis-6-dsp-nn.html
+https://omnixri.blogspot.com/2024/01/vmaker-edge-ai-13-npuai.html  
+
+## 延伸閱讀  
+
+[a] arm, Common Microcontroller Software Interface Standard (CMSIS)  
+https://www.arm.com/technologies/cmsis  
+
+[b] arm, CMSIS-5 Document (Version 5.9.0)  
+https://arm-software.github.io/CMSIS_5/latest/General/html/index.html  
+
+[c] arm, CMSIS-6 Document  
+https://arm-software.github.io/CMSIS_6/latest/General/index.html  
+
+[d] arm, CMSIS-DSP Document  
+https://arm-software.github.io/CMSIS-DSP/latest/  
+
+[e] arm, CMSIS-NN Document  
+https://arm-software.github.io/CMSIS-NN/latest/  
 
 ## 教學資源
 
