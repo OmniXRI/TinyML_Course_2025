@@ -102,10 +102,11 @@
     5.3. CMSIS-DSP  
     5.4. CMSIS-NN  
 * **<font color="#0000ff">2025/04/16</font> [Ch_6 TinyML開發流程](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch06_TinyML_Workflow)**  
-    6.1. 資料集建立  
-    6.2. 模型選用與訓練  
-    6.3. 模型轉換及優化  
-    6.4. 模型部署與整合  
+    6.1. Edge Impulse 簡介  
+    6.2. 資料集建立  
+    6.3. 模型選用與訓練  
+    6.4. 模型轉換及優化  
+    6.5. 模型部署與整合  
 * **<font color="#0000ff">2025/04/23</font> [Ch_7 實驗開發板介紹](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch07_Development_Boards)**  
     7.1. Arduino Nano 33 BLE Sense  
     7.2. Seeed Xiao nRF52840 Sense  
