@@ -49,12 +49,12 @@
 * 線上測試（從內建測試集）  
 
 6.4. 模型優化及部署  
-TensorFlow Lite 轉換程序  
-目標優化 – EON Tuner (AutoML)  
-模型優化  
-可部署方式  
-以 Arduino 型式輸出為例  
-導入 Arduino 函式庫並進行推論測試  
+* TensorFlow Lite 轉換程序  
+* 目標優化 – EON Tuner (AutoML)  
+* 模型優化  
+* 可部署方式  
+* 以 Arduino 型式輸出為例  
+* 導入 Arduino 函式庫並進行推論測試  
 
 ## 參考文獻
 
