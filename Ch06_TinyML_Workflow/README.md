@@ -21,7 +21,7 @@
 * Edge Impulse – 註冊/登入帳號  
 * 下載及安裝必要工具  
 * 安裝 Edge Impulse 工作環境  
-* 啟動公用專案範例 ─ 水流聲辨識   
+* 啟動公用專案範例 ─ [水流聲辨識](https://studio.edgeimpulse.com/public/14301/latest)  
 * 專案工作流程  
 * Edge Impulse Studio ─ 專案功能表  
 
