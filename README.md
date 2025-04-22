@@ -110,7 +110,8 @@
     7.1. Arduino Nano 33 BLE Sense  
     7.2. Seeed Xiao nRF52840 Sense  
     7.3. Seeed Grove Vision AI Module V2 Kit  
-    7.4. Seeed SenseCap Watcher  
+    7.4. Seeed SenseCap Watcher
+    7.5. Seeed SenseCraft AI 簡介  
 * **<font color="#0000ff">2025/04/30</font> [Ch_8 聲音辨識應用─環境音辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch08_Audio_Recognition)  
     (Xiao nRF52840 Sense)**  
     8.1. TensorFlow Lite 開發環境建置  
