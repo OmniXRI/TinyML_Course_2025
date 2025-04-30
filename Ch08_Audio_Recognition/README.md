@@ -10,6 +10,11 @@
 8.2. 聲音資料集建置  
 
 
+測試用資料集 on_off_noise_dataset_v2.zip：  
+* 原始資料集來源： https://www.tensorflow.org/datasets/catalog/speech_commands  
+* 訓練集(Train): on 300, off 300, noise 4  
+* 測試集(Test): on 10, off 10, noise 2  
+
 8.3. TensorFlow Lite模型訓練  
 
 
