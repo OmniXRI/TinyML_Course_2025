@@ -114,10 +114,10 @@
     7.5. Seeed SenseCraft AI 簡介  
 * **<font color="#0000ff">2025/04/30</font> [Ch_8 聲音辨識應用─環境音辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch08_Audio_Recognition)  
     (Xiao nRF52840 Sense)**  
-    8.1. TensorFlow Lite 開發環境建置  
+    8.1. 喚醒詞偵測簡介  
     8.2. 聲音資料集建置  
-    8.3. 模型選用與訓練  
-    8.4. 模型部署與測試  
+    8.3. TensorFlow Lite模型訓練  
+    8.4. Arduino 模型部署與測試   
 * **<font color="#0000ff">2025/05/07</font> [Ch_9 運動感測器應用─手勢辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch09_Motion_Recognition)  
     (Xiao nRF52840 Sense)**  
     9.1. Edge Impulse Studio 開發環境建置  
