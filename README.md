@@ -120,8 +120,8 @@
     8.4. Arduino 模型部署與測試   
 * **<font color="#0000ff">2025/05/07</font> [Ch_9 運動感測器應用─手勢辨識](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch09_Motion_Recognition)  
     (Xiao nRF52840 Sense)**  
-    9.1. Edge Impulse Studio 開發環境建置  
-    9.2. 運資料集建置  
+    9.1. 運動資料集建置  
+    9.2. Edge Impulse 開發環境建置  
     9.3. 模型選用與訓練  
     9.4. 模型部署與測試  
 * **<font color="#0000ff">2025/05/14</font> [Ch_10 影像應用─影像分類](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch10_Image_Classification)  
