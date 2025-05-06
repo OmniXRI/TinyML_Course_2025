@@ -17,7 +17,7 @@
 * [Seeed Xiao nRF52840 Sense](https://wiki.seeedstudio.com/cn/XIAO_BLE/)  
 * Xiao nRF52840 Sense 模組 ─ 參考電路  
 * 穿戴式智慧人工智慧裝置 ─ 參考外形  
-* Arduino 新增開發板設定
+* Arduino 新增開發板設定  
     https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json  
 * 安裝Seeed nRF52840函式庫  
 * 指定工作開發板及埠號  
