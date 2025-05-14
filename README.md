@@ -128,8 +128,8 @@
     (Xiao Grove Vision AI V2 Kit)**  
     10.1. Seeed SenseCraft AI 開發環建置  
     10.2. 影像資料集建置  
-    10.3. 模型選用與訓練  
-    10.4. 模型部署與測試  
+    10.3. 模型訓練與部署  
+    10.4. 檢測結果輸出  
 * **<font color="#0000ff">2025/05/21</font> [Ch_11 影像應用─物件偵測](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch11_Object_Detection)  
     (Xiao Grove Vision AI V2 Kit)**  
     11.1. Edge Impulse 開發環建置  
