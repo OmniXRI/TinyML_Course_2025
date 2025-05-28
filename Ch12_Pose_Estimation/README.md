@@ -12,30 +12,30 @@
 
 12.1. Himax SDK 開發環境建置  
 * Seeed Grove Vision AI V2 Kit  
-* Grove Vision AI Module V2 技術文件  
+* [Grove Vision AI Module V2 技術文件](https://wiki.seeedstudio.com/grove_vision_ai_v2/)  
 * TinyML 開發流程選項  
-* Github - Himax - Grove Vision AI Module V2  
+* [Github - Himax - Grove Vision AI Module V2](https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2)  
 * Yolov8n Pose 參考文件及預編譯模型  
 * 準備 Windows 編譯環境  
 
 12.2. Yolov8n 姿態資料集與模型  
-* 常見姿態估測資料集 – OpenPose  
-* 常見姿態估測資料集 – Google MediaPipe  
-* 常見姿態估測資料集 – Microsoft COCO  
+* 常見姿態估測資料集 – [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)  
+* 常見姿態估測資料集 – [Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide?hl=zh-tw)  
+* 常見姿態估測資料集 – [Microsoft COCO](https://cocodataset.org/#keypoints-2017)  
 * Yolov8 主要功能  
 * Yolov8 模型名稱  
-* YOLOv8 姿態估測模型及效能  
+* [YOLOv8 姿態估測模型及效能](https://docs.ultralytics.com/zh/models/yolov8/#performance-metrics)  
 * YOLOv8 姿態輸出結果  
-* SenseCraft Web Toolkit – 姿態估測  
+* [SenseCraft Web Toolkit](https://seeed-studio.github.io/SenseCraft-Web-Toolkit/) – 姿態估測  
 
 12.3. 程式編譯  
-* EPII_CM55M_APP_S 待編譯程式  
+* [EPII_CM55M_APP_S 待編譯程式](https://github.com/HimaxWiseEyePlus/Seeed_Grove_Vision_AI_Module_V2) 
 * 如何在 Windows 環境編譯  
 
 12.4. 模型部署與測試  
 * 安裝驅動程式 (USB Virtual COM)   
 * 開發板組裝 ─ 連接USB  
-* 燒錄方式1 ─ 使用 Edge Impulse CLI  
+* 燒錄方式1 ─ 使用 [Edge Impulse CLI](https://docs.edgeimpulse.com/docs/tools/edge-impulse-cli/cli-installation)  
 * 燒錄方式2 ─ 使用 Python + xmodem  
 
 ## 參考文獻  
