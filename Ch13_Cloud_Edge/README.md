@@ -16,8 +16,8 @@
 * SenseCAP Watcher – 外觀及內裝  
 * SenseCAP Watcher – 硬體方塊圖  
 * SenseCAP Watcher – 系統架構  
-* SenseCAP Watcher – 技術文件  
-* SenseCAP Watcher – Github  
+* SenseCAP Watcher – [技術文件](https://wiki.seeedstudio.com/watcher/)  
+* SenseCAP Watcher – [Github](https://github.com/Seeed-Studio/OSHW-SenseCAP-Watcher)  
 * SenseCAP Watcher – 安裝 APP  
 * SenseCAP Watcher – 設定 APP  
 * SenseCAP Watcher – APP 測試  
