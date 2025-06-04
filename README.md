@@ -142,8 +142,12 @@
     12.2. Yolov8n 姿態資料集與模型  
     12.3. 程式編譯  
     12.4. 模型部署與測試  
-* **<font color="#0000ff">2025/06/04</font> Ch_13 雲端與邊緣整合應用 <font color="#ff0000">（暫訂）</font>**  
-    **<font color="#0000ff">(Seeed SenseCap Watcher)</font>**  
+* **<font color="#0000ff">2025/06/04</font> [Ch_13 雲端與邊緣整合應用](https://github.com/OmniXRI/TinyML_Course_2025/tree/main/Ch13_Cloud_Edge)    
+    (Seeed SenseCAP Watcher)**
+    13.1. SenseCAP Watcher 功能簡介  
+    13.2. SenseCraft APP 軟體服務架構  
+    13.3. 建構開發環境與使用者介面  
+    13.4. 訊息通知與應用實例  
 
 ## 參考文獻
 
